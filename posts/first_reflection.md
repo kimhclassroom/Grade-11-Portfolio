@@ -7,4 +7,4 @@ What I learned this week (bullets are fine, you may include an image):
 - Next steps:
 
 
-[Go Back](./posts/index.md)
+## [Go Back](./posts/index.md)
