@@ -8,4 +8,4 @@ Please Click On Each Day To See What I Did On That Day
 - 5️⃣ [Friday, January 16, 2026](/posts/day5.md)
 
 
-[Go Back](/index.md)
+[Go Back](./index.md)
