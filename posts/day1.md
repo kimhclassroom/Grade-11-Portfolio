@@ -3,6 +3,6 @@
 
 Today I worked on creating the character selection portion of the coding project. I had used many different variables and had created many methods such as P1 and P2 variables that will store the color that the player has chosen. Each color corresponds to a number starting from Red = 1, all the way to Purple = 4. I had also made custom functions such as p1Color and p2Color which checks and stores the color to a numerical value that the player had clicked. One issue that I had encountered would have been that I wanted a way where the players would alternate choosing their color but due to mouseClicked taking up multiple frames, the color chosen had been stored in both players. To fix this, I had developed a way to make it so that P1 and P2 could never have the same color which luckily fixed the issue and did not allow the players to become the same color.
 
-[Daily Logs](/posts/dailylogs.md)
+[Daily Logs](../dailylogs.md)
 
-[Main Page](/index.md)
+[Main Page](../index.md)
