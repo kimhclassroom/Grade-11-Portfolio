@@ -1,0 +1,9 @@
+# Day 4: 
+## Thursday, January 15, 2026
+
+Today was a snow day and due to this, I had decided to do all of the heavy lifting today since I was allowed to work on this assignment at home. The first thing I worked on was creating the paint/trail the slimes would leave behind when moving around since the main objective of the game was to fill in as much of the screen as you can. I had thought that if I keep the background outside the draw function, it would let the player leave a trail without it being erased but the main issue that I had faced when doing this was that the timer in the middle created by Jojy, was overlapping itself. This meant that I needed the background in the draw function to prevent the timer from overlapping. I had then realized that I should make a grid system that blends in with the background but my laptop had crashed every time it checked the state (if it's neutral, p1 or p2’s color) of each pixel since the grid was a massive 800x800 grid. To prevent this, I had decided that the computer really didn’t need to continuously check every single pixel on the screen, only the ones that the player was on/surrounding. After realizing this, I had created a method which only checks the pixels that the slime travels on and gives it a point if it is not its own color. This had worked very well but due to the background being in the draw function, the points were being allocated but the trail was never drawn so I created a renderTrail method which basically stores the data that the paintCanvas gets and draws the trail behind the slime continuously so it looks like it's leaving a trail, but in reality, it's just being pasted on top of the background.
+
+[Daily Logs](dailylogs.md)
+
+[Main Page](../index.md)
+
