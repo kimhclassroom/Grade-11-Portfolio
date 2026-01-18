@@ -5,4 +5,4 @@ Today I worked on creating the character selection portion of the coding project
 
 [Daily Logs](dailylogs.md)
 
-[Main Page](/index.md)
+[Main Page](index.md)
