@@ -10,7 +10,7 @@ Hi, Im a 16 year old kid (soon to be adult) and this is one of my first ever pro
 
 - 📌 Description: Chemical Warfare is a two-player local competitive “paint the map" territory game where you’re tasked to color more of the map compared to your opponent with your respective color. There will be special power-ups (e.g. speed-boost, increased size) which would aid you in order to complete the final object which is to color in the most at the end of the time limit.
   
-- 📝 Daily Logs: [Reflection #1](./posts/first_reflection.md)
+- 📝 Daily Logs: [Check Daily Logs](./posts/dailylogs.md)
 
 
 ---
